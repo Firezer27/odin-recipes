@@ -1,0 +1,42 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.odin-container {
+  background-color: rgb(148, 222, 236);
+  width: 400px;
+  margin: 50px auto;
+  padding: 30px;
+}
+h1 {
+  color: white;
+  margin-bottom: 20px;
+  text-align: center;
+}
+ul li {
+  margin-bottom: 10px;
+}
+
+/* burger css */
+.burger-container {
+  padding: 60px;
+}
+h2 {
+  margin: 20px 0;
+}
+ol li {
+  margin-bottom: 10px;
+}
+
+/* kitfo css */
+.kifo-container {
+  padding: 60px;
+}
+/* pasta css */
+.pasta-container {
+  padding: 60px;
+}
